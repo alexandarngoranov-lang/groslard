@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#07131f"/>
+      <stop offset="1" stop-color="#102c43"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0d2335"/>
+      <stop offset="1" stop-color="#163f63"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="980" cy="110" r="150" fill="#1d9bf0" opacity="0.18"/>
+  <circle cx="180" cy="650" r="190" fill="#1d9bf0" opacity="0.1"/>
+  <rect x="160" y="140" width="880" height="500" rx="28" fill="#0a1824" stroke="#35526c" stroke-width="6"/>
+  <rect x="200" y="178" width="800" height="424" rx="18" fill="url(#screen)"/>
+  <g opacity="0.95">
+    <path d="M603 255l92 54-31 53-61-36-61 36-31-53 92-54zm-92 164 31-53 61 36v72l-92-55zm184 0-92 55v-72l61-36 31 53z" fill="#fff"/>
+  </g>
+  <text x="600" y="545" font-family="Arial, sans-serif" font-size="72" fill="#ffffff" text-anchor="middle" font-weight="700" letter-spacing="8">UNITY</text>
+  <text x="600" y="595" font-family="Arial, sans-serif" font-size="26" fill="#a6c8e5" text-anchor="middle" letter-spacing="3">GAME DESIGN · PROTOTYPING · CREATION</text>
+  <rect x="450" y="657" width="300" height="18" rx="9" fill="#1c2f40"/>
+  <rect x="515" y="675" width="170" height="22" rx="11" fill="#223a4e"/>
+</svg>
